@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+header{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.btn1{
+    color: var(--wgite, #FFF);
+text-align: center;
+font-family: Okta Neue;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.2px;
+border-radius: 8px;
+background: var(--blue, #3562F4);
+padding: 8px 15px;
+gap: 10px;
+border: none;
+
+}
+
+
+.inpl{
+    color: var(--grey, #64748B);
+text-align: center;
+font-family: Okta Neue;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 8px 15px;
+letter-spacing: 0.2px;
+border: none;
+}
+
+
+.btn2{
+    color: var(--grey, #64748B);
+
+/* body/medium/medium */
+font-family: Okta Neue;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+letter-spacing: 0.2px;padding: 6px 9px 6px 14px;
+border-radius: 8px;
+border: 1px solid var(--stroke, #E2E8F0);
+border: none;
+}
+
+
+.btn3{
+    color: var(--grey, #64748B);
+
+/* body/medium/medium */
+font-family: Okta Neue;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+letter-spacing: 0.2px;
+padding: 9px 18px;
+border-radius: 8px;
+border: 1px solid var(--stroke, #E2E8F0);
+border: none;
+}
+
+
+.btn5{
+    color: var(--grey, #64748B);
+    padding: 7px 14px;
+font-family: Okta Neue;
+font-size: 14px;
+border: none;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+letter-spacing: 0.2px;
+
+
+color: var(--grey, #64748B);
+
+font-family: Okta Neue;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+letter-spacing: 0.2px;
+}
+
+
+.halok{
+    color: #000;
+font-family: Okta Neue;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+letter-spacing: 0.2px;
+}
+
+
+.bbb{
+    width: 400px;
+    margin-bottom: 30px;
+    height: 40px;
+    border-radius: 8px;
+    padding-left: 10px;
+border: 1px solid #E2E8F0;
+}
+
+
+.btnAdmin{
+    padding: 16px 48px;
+    border-radius: 4px;
+    background-color: #DB4444;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+    color: white;
+}
+
+
+.buttonds{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
